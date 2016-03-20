@@ -1,0 +1,3 @@
+A mobile robot based on Cherokey 4WD mobile platform. It chooses its own routes to patrol at home and send videos/photos back to a monitor. The motors/servos/sensors are controlled by an Arduino microcontroller and the logic control is done by a Raspberry pi using Python through Python-Arduino api.
+
+I just start to build the system and will continuously update my progress...
